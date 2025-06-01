@@ -39,4 +39,5 @@ export { Sampler } from './src/providers/sampler';
 export { VolumeProfile } from './src/volume-profile'; /** BETA UNSTABLE */
 export { ChaikinOscillator } from './src/chaikin';
 export { AMA } from './src/ama';
+export * from './src/ichimoku';
 // export { OrderBlock } from './src/order-block';

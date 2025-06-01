@@ -42,6 +42,7 @@ The main feature of these indicators is their continuous operation, which means 
 - [Welles Wilder's Smoothing Average (WWS)](./docs/WellesWildersSmoothingAverage.md).
 - [Weighted moving average (WMA)](./docs/WeightedMovingAverage.md)
 - [Parabolic Stop And Reverse (PSAR)](./docs/ParabolicStopAndReverse.md).
+- [Ichimoku Cloud](./docs/Ichimoku.md).
 - Volume Profile (TBD)
 
 ## Candles
